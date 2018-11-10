@@ -1,2 +1,2 @@
 # gaucho
-JRPG-style game
+JRPG-style game set in Argentina circa 1817
